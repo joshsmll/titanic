@@ -1,0 +1,1 @@
+This is a simple machine learning project that asks questions (3) and based on your response will determine your chance of survival using Machine LEarning and the Pandas Library - utilizing the random forest method.
